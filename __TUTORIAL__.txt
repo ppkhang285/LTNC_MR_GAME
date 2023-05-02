@@ -1,0 +1,6 @@
+-------------WELCOME TO SNAKE GAME-----------------
+    YOU CAN CONTROL THE CUTE SNAKE TO EAT APPLES
+     YOU WILL LOSE IF YOUR SNAKE EATS ITSEFT
+---------------------------------------------------
+- USE W, S, A, D TO CONTROL SNAKE
+- USE SPACE TO STOP GAME
